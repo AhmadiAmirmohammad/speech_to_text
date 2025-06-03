@@ -1,0 +1,18 @@
+# Core Packages
+streamlit==1.32.2
+SpeechRecognition==3.10.0
+google-cloud-speech==2.21.0
+
+# Audio Processing
+pydub==0.25.1
+soundfile==0.12.1
+
+# Utilities
+python-dotenv==1.0.1
+tempfile==0.1.0
+tqdm==4.66.2
+
+# Google Cloud Dependencies
+google-auth==2.23.4
+google-api-core==2.15.0
+google-auth-oauthlib==1.2.0
