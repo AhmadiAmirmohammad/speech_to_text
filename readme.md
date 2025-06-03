@@ -34,3 +34,10 @@ A web application that converts Persian (Farsi) speech in WAV audio files to tex
 ```bash
     pip install streamlit SpeechRecognition
 ```
+
+### run project 
+
+- Insert bellow command in terminal 
+```commandline
+    streamlit run negarin.py
+```
